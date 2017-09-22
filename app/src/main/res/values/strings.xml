@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+
+    <string name="hello_world">Log will be shown here</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sensot_output">SensotOutput</string>
+    <string name="title_activity_sensor">SensorActivity</string>
+    <string name="details">Enter Details here</string>
+</resources>
